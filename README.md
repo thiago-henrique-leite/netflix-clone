@@ -9,7 +9,7 @@ cd netflix-clone/
 
 yarn install
 
-yarn init
+yarn start
 ```
 
 ## Telas da Aplicação
